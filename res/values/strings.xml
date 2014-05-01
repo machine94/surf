@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SurfJax</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Welcome to Surf Jax!</string>
+    <string name="get_today_forecast">Get Forecast</string>
+    <string name="get_week_forecast">This week\'s forecast</string>
+    <string name="weathers_title">Forecasts</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="delete_weather">Delete Forecast</string>
+    <string name="new_weather">Create Forecast</string>
+    <string name="weather_title_label">Today\'s Forecast</string>
+    <string name="weather_condition_description">Image of forecast condition</string>
+    <string name="subtitle">Surf Jax forecasts powered by Wunderground</string>
+    <string name="weather_view_chance">Chance of rain:</string>
+    <string name="weather_list_tomorrow">Tomorrow:</string>
+    <string name="weather_debug_misc">Placeholder string</string>
+    <string name="weather_swipe">Try Swiping!</string>
+    <string name="weather_debug_short">Short</string>
+    <string name="weather_text_high">High:</string>
+    <string name="weather_text_low">Low:</string>
+    <string name="weather_text_summary">Summary</string>
+
+</resources>
